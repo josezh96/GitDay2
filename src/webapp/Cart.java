@@ -4,4 +4,6 @@ public class Cart {
     //shopping car
     // total
 
+    // deals
+
 }
