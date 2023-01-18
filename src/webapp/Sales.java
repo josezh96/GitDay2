@@ -10,4 +10,5 @@ public class Sales {
 
     // more sales item
 
+    // added holiday sales
 }
